@@ -531,6 +531,15 @@ footer a:hover{
   animation: changing 2.5s linear infinite;
 
 }
+.footer__bar {
+  padding: 1rem;
+  font-size: 1rem;
+  color: var(--primar-clr);
+  text-align: center;
+  margin-top: 50px;
+}
+
+
 @keyframes changing {
   0%{
       background-color: #c32bfb;
